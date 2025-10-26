@@ -29,11 +29,6 @@ Right-click the file and select "Run as administrator"
 
 Follow the on-screen prompts
 
-Method 2: Git Clone
-bash
-git clone https://github.com/yourusername/windows-cleanup-tool.git
-cd windows-cleanup-tool
-
 # Right-click SuperCleanup.bat → "Run as administrator"
 ⚙️ What It Cleans
 🔹 System Temporary Files
